@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDkxMjYyNDc1OTEyODcxOTU2.DoFXkQ.Qn4TBVFeyEZNqFD51Zzqj2zveF8
+owner=470500980342128650
+prefix=4
+game=4play-United
 stayinchannel=true
-songinstatus=true
+
