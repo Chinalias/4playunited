@@ -2,5 +2,6 @@ token=NDkxMjYyNDc1OTEyODcxOTU2.DoFXkQ.Qn4TBVFeyEZNqFD51Zzqj2zveF8
 owner=470500980342128650
 prefix=4
 game=4play-United
+stayinchannel=true
 
 
